@@ -1,5 +1,13 @@
 # Medical Insurance Cost Dataset
 This dataset contains medical insurance cost information for 1338 individuals. It includes demographic and health-related variables such as age, sex, BMI, number of children, smoking status, and residential region in the US. The target variable is charges, which represents the medical insurance cost billed to the individual.
+## 📊 Dataset
+
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/).
+**Dataset Name:** Medical Cost Personal Dataset  
+**Source:** [Medical Cost Personal Datasets - Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
+**Description:**  
+This dataset contains information about individuals such as age, sex, BMI, number of children, smoking status, and region, along with their medical insurance charges.  
+It is used to predict insurance costs based on personal and lifestyle factors.
 
 # 1) Which region has the most smokers?
 ## Objective
